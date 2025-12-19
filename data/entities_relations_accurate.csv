@@ -1,0 +1,404 @@
+PAN,Relation,Name,Organisation,PageNumber,Errors
+,PAN_Of,Noticee,Sebi,0,"Invalid PAN, Missing/Incomplete Name"
+1,PAN_Of,Hetab S Kangad,Neptune,0,Invalid PAN
+1112,Relation,Number Of Allottees Who Sold Shares,,0,Invalid PAN
+113544155,Relation,Shares Sold By The Allottees,,0,Invalid PAN
+11656248,PAN_Of,Gurupreet Sangla,,0,Invalid PAN
+1206000,PAN_Of,Dropdi Devi,,0,Invalid PAN
+12VINDYAVASINIAGENCY,PAN_Of,Unknown,Vindyavasini Agency,74,"Invalid PAN, Missing/Incomplete Name"
+13224912,PAN_Of,Harvinder Singh,,0,Invalid PAN
+13433146,PAN_Of,Satvinder Kaur,,0,Invalid PAN
+143226540,PAN_Of,Veenit,Builders,62,"Invalid PAN, Missing/Incomplete Name"
+1611200,PAN_Of,Nidhi Khandelwal,,0,Invalid PAN
+17262500,PAN_Of,Rajiv Goel Huf,,0,Invalid PAN
+17PANOF,Stellar Capital,Toor Finance,,80,Invalid PAN
+1801,Common Contact Number,Guptvivekgmail.Com,Dhirga 7,0,"Invalid PAN, Missing/Incomplete Name"
+18022015,Off Market Transaction,Vindhyavasini,Dhanshakti 9,43,"Invalid PAN, Missing/Incomplete Name"
+18022019,Off Market Transaction,Kuber Financial,Kuber Dealcom 6,5,Invalid PAN
+18342550,PAN_Of,Rajni Goel,,0,Invalid PAN
+19DEVESHWAR,PAN_Of,Deveshwar,Deveshwar Realty,74,"Invalid PAN, Missing/Incomplete Name"
+19PANOF,Deveshwar,Subhlabh,,80,"Invalid PAN, Missing/Incomplete Name"
+2020MAADHWA,PAN_Of,Maadhwa,Realpro Private Subhlabh,74,"Invalid PAN, Missing/Incomplete Name"
+20MANDHAWA,PAN_Of,Mandhawa,Sidhi Advisory Private Ltd.,74,"Invalid PAN, Missing/Incomplete Name"
+20PANOF,Maadhwa,Subhlabh,Everblink,0,"Invalid PAN, Missing/Incomplete Name"
+2103950,PAN_Of,Maya Devi Khandelwal,,0,Invalid PAN
+21EXCELLENT,PAN_Of,Pravin Kumar Agarwal,Excellent Financial,74,Invalid PAN
+21PANOF,Excellent,Subhlabh,,80,"Invalid PAN, Missing/Incomplete Name"
+22NEPTUNE,PAN_Of,Pravin Kumar Agarwal,Excellent Financial,74,Invalid PAN
+22PANOF,Neptune Financial,Toor Finance,Yamini,0,Invalid PAN
+23PANOF,Novelty Dealer,Subhlabh,Yamini,0,"Invalid PAN, Missing/Incomplete Name"
+25SARASWATI,PAN_Of,Unknown,Excellent Financial,74,"Invalid PAN, Missing/Incomplete Name"
+26SAMRATTRADING,PAN_Of,Unknown,Excellent Financial,74,"Invalid PAN, Missing/Incomplete Name"
+2797275,PAN_Of,Shubhra Khandelwal,,0,Invalid PAN
+28012019,CD Choice India,Goldensight,Dace Exim 8,2,"Invalid PAN, Missing/Incomplete Name"
+3200000,PAN_Of,Hans Raj Agarwal,,0,Invalid PAN
+35SURAKSHIT,PAN_Of,Surakshit Merchants Pvt Ltd,,0,Invalid PAN
+38138700,PAN_Of,Sanjeev Goel,,0,Invalid PAN
+3840150,PAN_Of,Nisha Sharma,,0,Invalid PAN
+41BIJ,PAN_Of,Bij Buildcon India Private Ltd,,0,Invalid PAN
+42SANJIVGOEL,PAN_Of,Sanjiv Goel,,0,Invalid PAN
+4324000,PAN_Of,K Ashok Kumar,,0,Invalid PAN
+4418000,PAN_Of,Vimala Bohra,,0,Invalid PAN
+4445000,PAN_Of,K Ashok Kumar Huf,,0,Invalid PAN
+4480000,PAN_Of,Gyan Prakash Rai,,0,Invalid PAN
+44PANOF,Company Ltd. Ltd.,India Finsec,,80,Invalid PAN
+44RAJNIGOEL,PAN_Of,Rajni Goel,,0,Invalid PAN
+46GURUPREETSANGLA,PAN_Of,Gurupreet Sangla,,0,Invalid PAN
+46PANOF,Gopal Bansal,India Finsec,,80,Invalid PAN
+48RENUAGRAWAL,PAN_Of,Renu Agrawal,,0,Invalid PAN
+49PANOF,Bansal,Toor Finance,,80,Invalid PAN
+49SEEMASANGLA,PAN_Of,Seema Sangla,,0,Invalid PAN
+5000750,PAN_Of,Ashokkumar Aashish Bohra,,0,Invalid PAN
+50ANKITKHANDELWAL,PAN_Of,Ankit Khandelwal,,0,Invalid PAN
+5119500,PAN_Of,Ashok Sneha Bohra,,0,Invalid PAN
+51HARVINDERSINGHHUF,PAN_Of,Harvinder Singh Huf,,0,Invalid PAN
+51PANOF,Jamuna Jamuna,Neptune,,80,"Invalid PAN, Missing/Incomplete Name"
+52KULDEEPKAUR,PAN_Of,Kuldeep Kaur,,0,Invalid PAN
+52PANOF,Chandraprakash,Neptune,,80,"Invalid PAN, Missing/Incomplete Name"
+53PANOF,Nirmalabai,Neptune,,80,"Invalid PAN, Missing/Incomplete Name"
+54541234X,PAN_Of,Pravin Kumar Agarwal,Realty Private Subhlabh,74,Invalid PAN
+54PANOF,Pravin Kumar Agarwal,Investment Subhlabh,Yamini,0,Invalid PAN
+55PANOF,Soebbhai,Neptune,,80,"Invalid PAN, Missing/Incomplete Name"
+5600000,PAN_Of,Gopal Bansal Huf,,0,Invalid PAN
+57IASHOKKUMARAASHISHBOHRAA,PAN_Of,Ashok Kumar Aashish Bohra,,12,Invalid PAN
+57PANOF,Mohan Ramesh Singhare,Everblink,,80,"Invalid PAN, Missing/Incomplete Name"
+58,PAN_Of,Surajit Sarkar,Goldensight,81,Invalid PAN
+58IVIMALABOHRA,PAN_Of,Vimala Bohra,,12,Invalid PAN
+58PANOF,Goldensight,Goldensight,,80,"Invalid PAN, Missing/Incomplete Name"
+59PANOF,Samudhita Vaniyja,Goldensight,,80,"Invalid PAN, Missing/Incomplete Name"
+60,PAN_Of,Sunil Paswan,Sanshipt,81,Invalid PAN
+61,PAN_Of,Tanmay Roy,Headfirst Vinimay,81,Invalid PAN
+62,PAN_Of,Rajesh Singh,Ecospace,81,Invalid PAN
+62PANOF,Arupa Kumar Deb,Ecospace,,80,"Invalid PAN, Missing/Incomplete Name"
+63IDROPADIDEVI,PAN_Of,Dropadi Devi,,12,Invalid PAN
+63PANOF,Richi,Goldensight,,80,"Invalid PAN, Missing/Incomplete Name"
+64RJULY192022,PAN_Of,Rajeev Goel Huf,,12,Invalid PAN
+65IHANSRAJAGARWAL,PAN_Of,Hans Raj Agarwal,,12,Invalid PAN
+66ASHOKSNEHABOHRA,PAN_Of,Ashok Sneha Bohra,,12,Invalid PAN
+67IRAHULGOEL,PAN_Of,Rahul Goel,,12,Invalid PAN
+68IAAMIRMEMON,PAN_Of,Aamir Memon,,12,Invalid PAN
+68IMXXXX,PAN_Of,Aamir Memon,,0,Invalid PAN
+69,Organisation,Shiv Lal,Golden Tradedexim,81,Invalid PAN
+69MXLXXXX,PAN_Of,Madhur Buildon Pvt. Ltd.,Page36,0,Invalid PAN
+70MADHURBUILDCONPVTLTD,Organisation,,12,0,"Invalid PAN, Missing/Incomplete Name"
+76MANISHKUMAR,PAN_Of,Na,Na,83,"Invalid PAN, Missing/Incomplete Name"
+77JITENDRAKUMAR,PAN_Of,Na,Na,83,"Invalid PAN, Missing/Incomplete Name"
+78ANIKET,PAN_Of,Na,Na,83,"Invalid PAN, Missing/Incomplete Name"
+80000,PAN_Of,Manju Rai,,0,Invalid PAN
+800000,PAN_Of,Kuldeep Kaur,,0,Invalid PAN
+8171785,PAN_Of,Renu Agarwal,,0,Invalid PAN
+82YASHGROVER,PAN_Of,Na,Na,83,"Invalid PAN, Missing/Incomplete Name"
+83614735,PAN_Of,Seema Sangla,,0,Invalid PAN
+83SUNNYGUPTA,PAN_Of,Na,Na,83,"Invalid PAN, Missing/Incomplete Name"
+8429112,PAN_Of,Harvinder Singh Huf,,0,Invalid PAN
+84GAGANGUPTA,PAN_Of,Na,Na,83,"Invalid PAN, Missing/Incomplete Name"
+8549000,PAN_Of,Ankit Khandelwal,,0,Invalid PAN
+85SHYAMLAL,PAN_Of,Na,Na,83,"Invalid PAN, Missing/Incomplete Name"
+9340250,PAN_Of,Amit Khandelwal,,0,Invalid PAN
+A,PAN_Of,Gopal Bansal Huf,Na,17,Invalid PAN
+A1,PAN_Of,Harvinder Singh Huf,,5,Invalid PAN
+A10,PAN_Of,Rajni Goel,,5,Invalid PAN
+A11,PAN_Of,Renu Agarwal,,5,Invalid PAN
+A12,PAN_Of,Sanjeev Goel,,5,Invalid PAN
+A12345,PAN_Of,Not Provided,Not Provided,64,Invalid PAN
+A1234E,PAN_Of,Purushottam Agarwal,Maheshwari Financial Service Pvt. Ltd.,5,Invalid PAN
+A13,PAN_Of,Satvinder Kaur,,5,Invalid PAN
+A14,PAN_Of,Seema Sangla,,5,Invalid PAN
+A15,PAN_Of,Shubhra Khandelwal,,5,Invalid PAN
+A16,PAN_Of,Vimala Bohra,,5,Invalid PAN
+A1BCD2345E,PAN_Of,Anax Com Trade Ltd.,,56,Invalid PAN
+A2,PAN_Of,K Ashok Kumar,K Ashok Kumar Huf,5,Invalid PAN
+A2345D,PAN_Of,Not Specified,Toor Finance,13,Invalid PAN
+A2CD3456F,PAN_Of,Fidelo Power And Infrastructure Ltd,,56,Invalid PAN
+A3,PAN_Of,Kuldeep Kaur,,5,Invalid PAN
+A3456E,PAN_Of,Not Specified,Stellar Capital Service Ltd.,13,Invalid PAN
+A4,PAN_Of,Manju Rai,,5,Invalid PAN
+A5,PAN_Of,Maya Devi Khandelwal,,5,Invalid PAN
+A6,PAN_Of,Nidhi Khandelwal,,5,Invalid PAN
+A7,PAN_Of,Nisha Sharma,,5,Invalid PAN
+A8,PAN_Of,Rahul Goel,Rajeev Goel Huf,5,Invalid PAN
+A9,PAN_Of,Rajeev Goel Huf,,5,Invalid PAN
+AA123456C,PAN_Of,Satish Kumar,Na,82,Invalid PAN
+AA123456D,PAN_Of,J N Jaiswal,J And N Jaiswal Investments 68,82,Invalid PAN
+AA12345EF,PAN_Of,Ritwika Creations Pvt. Ltd.,Na,19,Invalid PAN
+AAA01234F,PAN_Of,Pravin Kumar Agarwal,Private Ltd. 02556093,75,Invalid PAN
+AAA12345X,PAN_Of,Purushotam Agrawal,Madhur Buildcon Pvt Ltd,44,Invalid PAN
+AAA1234E,PAN_Of,Praveen Kurele,Na,40,Invalid PAN
+AAA1234X,PAN_Of,Harvinder Singh,,28,Invalid PAN
+AAA1234Y,PAN_Of,Autolite Agencies Pvt Ltd.,,52,Invalid PAN
+AAA1234Z,PAN_Of,Vee Real Estate Consultant Pvt Ltd,Noticee 30,22,Invalid PAN
+AAAA1234Z,PAN_Of,Sanjay Kumar Agarwal,,50,Invalid PAN
+AAACS3356A,PAN_Of,Stellar Capital Services Ltd.,,1,
+AAACT5163G,PAN_Of,Toor Finance Company Ltd.,,1,
+AAADCE7290C,PAN_Of,Everblink Agency Pvt Ltd,Na,2,Invalid PAN
+AAAVFA6230F,PAN_Of,Aries Commericals,,1,Invalid PAN
+AABCD1234E,PAN_Of,Moonlight Udyog,Yamini Investment Company Limited,0,
+AABCD1234F,PAN_Of,Ram Yadav,Shivravi 67,49,
+AABCD4567,PAN_Of,Maya Devi Khandelwal,,33,Invalid PAN
+AABCD4567F,PAN_Of,Nisha Sharma,,60,
+AABCD4567I,PAN_Of,Amit Khandelwal,,29,
+AABCD4567X,Noticee No. 68,,38,0,Missing/Incomplete Name
+AABCD4568,PAN_Of,Nidhi Khandelwal,,33,Invalid PAN
+AABCF4418M,PAN_Of,Fortunate Infrastructure Developers Pvt. Ltd.,,1,
+AABCL8020H,PAN_Of,Linkup Vintrade Pvt. Ltd.,,1,
+AABCO2405K,PAN_Of,Omkara Dealer Pvt. Ltd.,,1,
+AABCO3506H,PAN_Of,Overall Logistics Pvt. Ltd.,,1,
+AACCD9817B,PAN_Of,Dace Exim Pvt. Ltd.,,1,
+AACCI3971M,PAN_Of,Imagine Logistics Pvt. Ltd.,,1,
+AACCN7952M,PAN_Of,Natural Investment Management Pvt. Ltd.,,1,
+AACHH8750E,PAN_Of,Harvinder Singh Huf,Na,2,
+AADCD9678H,PAN_Of,Dhirga Marketing Private Ltd.,,1,
+AADCE0088L,PAN_Of,Ecospace Infotech Pvt. Ltd.,,1,
+AADCE4004G,PAN_Of,E Tricks Enterprises Pvt. Ltd.,,1,
+AADCH4445A,PAN_Of,Headfirst Vinimay Pvt. Ltd.,Na,2,
+AADCR9667C,PAN_Of,Richi Consultants Pvt Ltd,Na,2,
+AADCV4831G,PAN_Of,Vighnaharta Infra Developers Pvt. Ltd.,Na,2,
+AADCV6070D,PAN_Of,Veenit Builders Pvt Ltd,Na,2,
+AADCV8452B,PAN_Of,Vindyavasini Agency Pvt Ltd,,0,
+AADCV8456F,PAN_Of,Veepra Realestate Consultants Pvt. Ltd.,Na,2,
+AAECG5864F,PAN_Of,Goodpoint Commodeal Pvt. Ltd.,Na,2,
+AAECK1734G,PAN_Of,Krushana Infra Property Pvt. Ltd.,Na,2,
+AAECR9659R,PAN_Of,Rajputana Digital Media Pvt. Ltd.,Na,2,
+AAEFG1234J,PAN_Of,Renu Agarwal,,29,
+AAEHR5208M,PAN_Of,Rajiv Goel Huf,Na,3,
+AAFCG6723L,PAN_Of,Goldensight Commotrade Pvt Ltd,Na,2,
+AAFCM9969G,Organisation_Of,Madhur Buildcon Pvt. Ltd.,Na,3,
+AAFPK4721R,PAN_Of,K Ashok Kumar,Na,2,
+AAGPL9225Q,PAN_Of,Chandra Prakash Balkisanji Laddha,,1,
+AAHA4378M,PAN_Of,K Ashok Kumar Huf,Na,2,Invalid PAN
+AAHGH5678K,PAN_Of,Seema Sangla,,29,
+AAICS3344J,PAN_Of,Mkr Trading Pvt. Ltd.,,1,
+AAL8061F,PAN_Of,Aamir Memon,Na,9,Invalid PAN
+AALXX1234F,PAN_Of,Vindyavasini Agency Private Ltd.,,10,
+AAMCS9707M,Organisation_Of,Surbhi Infraproject Pvt. Ltd.,Na,3,
+AANCS7666N,PAN_Of,Surakshit Merchants Pvt. Ltd.,Na,2,
+AAQCS6011A,PAN_Of,Surabhi Dealmark Pvt. Ltd.,Na,2,
+AATCS6941G,PAN_Of,Sanshipt Broking And Consultancy Pvt Ltd.,Na,2,
+AAUFM6147N,PAN_Of,Moonlight Udyog,,1,
+AAUFM6247N,PAN_Of,Sanjeev Kumar Agarwal,Nan,32,
+AAVFA6230F,PAN_Of,S Jaiswala,Missing,78,
+AAYPA6162D,PAN_Of,Renu Agarwal,Na,2,
+ABBPA8231D,PAN_Of,Hans Raj Agarwal,Na,3,
+ABCD1234E,PAN_Of,Rahul Goel,,35,Invalid PAN
+ABCDE1111A,PAN_Of,Chandra Prakash Balkisanji Laddha,Chandraprak Total Huf,5,
+ABCDE1234A,PAN_Of,Shri Ram Traders,Shri Ram Traders,5,
+ABCDE1234B,PAN_Of,Moonlight Udyog,Moonlight Udyog,5,
+ABCDE1234C,PAN_Of,Kataram Kataruka,Kataruka Huf,5,
+ABCDE1234D,PAN_Of,Hetab S Kangad Huf,Hetab S Kangad Huf,5,
+ABCDE1234E,PAN_Of,Gopal Bansal Huf,Gopal Bansal Huf,5,
+ABCDE1234F,PAN_Of,Gopal Bansal Huf,Noticee 6 Aries Commercial,0,
+ABCDE1234G,PAN_Of,Dropdi Devi,Dhirga 7,7,
+ABCDE1234H,PAN_Of,Rajeev Goel Huf,Rajeev Goel Huf,7,
+ABCDE1234I,PAN_Of,Ashok Kumar,Ashok 15,7,
+ABCDE145000,PAN_Of,Ankit Khandelwal,,57,Invalid PAN
+ABCDE160000,PAN_Of,Amit Khandelwal,,57,Invalid PAN
+ABCDE195346,PAN_Of,Gurupreet Sangla,,57,Invalid PAN
+ABCDE222460,PAN_Of,Harvinder Singh,,57,Invalid PAN
+ABCDE3099699,PAN_Of,Hans Raj Agarwal,,57,Invalid PAN
+ABCDE4234F,PAN_Of,Sanjeev Goel,,0,
+ABCDE4285F,PAN_Of,Nisha Sharma,Overall Logistics Private Limited,59,
+ABCDE43I,PAN_Of,Rajni Goel,,0,Invalid PAN
+ABCDE49820,PAN_Of,Gopal Bansal Huf,,57,Invalid PAN
+ABCDE560001,PAN_Of,Gopal Bansal Huf,Yamini,17,Invalid PAN
+ABCDE79000,PAN_Of,Ashok Kumar Bohra,Ashok Kumar Aashish Bohra,0,Invalid PAN
+ABCDE80000,PAN_Of,Gyan Prakash Rai,,57,Invalid PAN
+ABCDE9761E,PAN_Of,Vimala Bohra,Na,3,
+ABCDEF10200,PAN_Of,Gopal Bansal Huf,Yamini,17,Invalid PAN
+ABCDEVESH1234F,PAN_Of,Deveshwar Realty Pvt Ltd.,,5,Invalid PAN
+ABCE1234F,PAN_Of,E Tricks Enterprises Pvt Ltd,Na,7,Invalid PAN
+ABCMHE6789F,PAN_Of,Maheshwari Financial Services Private Ltd.,,5,Invalid PAN
+ABCPREMLA1234F,PAN_Of,Premlal Roy,,5,Invalid PAN
+ABCTOOR1234E,PAN_Of,Toor Finance Company Ltd.,,5,Invalid PAN
+ACDFS3492D,PAN_Of,Shri Ram Traders,,1,
+ACDPD4284G,PAN_Of,Dropdi Devi,Na,3,
+ACDR2362R,PAN_Of,Premlal Roy,,1,Invalid PAN
+ACFPR5859M,PAN_Of,Manju Rai,Na,2,
+ADFPC4328R,PAN_Of,Nisha Sharma,Na,3,
+ADZPK9924F,PAN_Of,Maya Devi Khandelwal,Na,3,
+AE1234F5G,PAN_Of,Shubhdayak,Shubhdayak And Sonia Finvest Pvt Ltd,82,"Invalid PAN, Missing/Incomplete Name"
+AE1234F5H,PAN_Of,Dinesh Kumar,Shubhdayak And Sonia Finvest Pvt Ltd,82,Invalid PAN
+AEHG7205B,PAN_Of,Gopal Bansal Huf,,1,Invalid PAN
+AEHH5347D,PAN_Of,Hetab S Kangad Huf,,1,Invalid PAN
+AFHPJ0275Q,PAN_Of,Seema Sangla,Na,2,
+AGRAWALIPURUSHOTAM,PAN_Of,Purushotam Agrawali,Fortunate Infra Developers Pvt. Ltd.,18,Invalid PAN
+AIGPS1433B,PAN_Of,Kuldeep Kaur,Na,2,
+AJRPK8212G,PAN_Of,Amit Khandelwal,Na,2,
+ANKL12345,PAN_Of,Ankit Khandehwal,,30,Invalid PAN
+ANSHUKATARUKA,PAN_Of,Anshu Kataruka,Na,6,Invalid PAN
+AOPPR4394M,PAN_Of,Gyan Prakash Rai,Na,2,
+APZPS2922M,PAN_Of,Gurupreet Sangla,Na,2,
+AQSPR5044F,PAN_Of,Shubhra Khandelwal,Na,3,
+ARIES,Not Available,Aries,Not Provided,77,"Invalid PAN, Missing/Incomplete Name"
+ARIESCOMMERCIALS,PAN_Of,Aries Commercials,Na,6,Invalid PAN
+ASHWANIBHATIA,PAN_Of,,Ashwani Bhatia,0,"Invalid PAN, Missing/Incomplete Name"
+ATFPK3499M,PAN_Of,Nidhi Khandelwal,Na,3,
+AUM,PAN_Of,Surendra Sharma,Kuber Dealcom,5,Invalid PAN
+AUOPB2860R,PAN_Of,Ashok Sneha Bohra,Na,3,
+AUTOLITEAGENCIES,PAN_Of,Gopal Bansal Huf,Empty,79,Invalid PAN
+AWJPG9626R,PAN_Of,Rahul Goel,Na,3,
+AX1234Z1B,PAN_Of,Ramnivas,Investments Pvt Ltd,82,"Invalid PAN, Missing/Incomplete Name"
+AYBZN1234E,PAN_Of,Yamini Investment Company Limited,,0,
+AYOBE1234Z,PAN_Of,Yamini Investment Company Limited,Na,4,
+AYPMQE3456Z,PAN_Of,Yamini Investment Company Limited,,0,Invalid PAN
+B1,PAN_Of,Bij Buildcon India Pvt. Ltd.,,83,Invalid PAN
+B10,PAN_Of,Headfirst Vinimay Pvt. Ltd.,,83,Invalid PAN
+B11,PAN_Of,Imagine Logistics Pvt. Ltd.,,83,Invalid PAN
+B12,PAN_Of,Krushana Infraproperty Pvt. Ltd.,,83,Invalid PAN
+B1234E,PAN_Of,Toor Finance,Na,5,Invalid PAN
+B13,PAN_Of,Linkup Vintrade Pvt. Ltd.,,83,Invalid PAN
+B14,PAN_Of,Mkr Trading Pvt. Ltd.,,83,Invalid PAN
+B15,PAN_Of,Natural Investment Management Pvt. Ltd.,,83,Invalid PAN
+B16,PAN_Of,Nicky Marmo Ltd.,,83,Invalid PAN
+B17,PAN_Of,Omkara Dealer Pvt. Ltd.,,83,Invalid PAN
+B18,PAN_Of,Optimal Farms Pvt. Ltd.,,83,Invalid PAN
+B19,PAN_Of,Overall Logistics Pvt. Ltd.,,83,Invalid PAN
+B2,PAN_Of,Dace Exim Pvt. Ltd.,,83,Invalid PAN
+B20,PAN_Of,Rajputana Digital Media Pvt. Ltd.,,83,Invalid PAN
+B21,PAN_Of,Optimal Farms Pvt. Ltd.,83 Repeated,0,Invalid PAN
+B22,PAN_Of,Overall Logistics Pvt. Ltd.,83 Repeated,0,Invalid PAN
+B3,PAN_Of,Dhirga Marketing Pvt. Ltd.,,83,Invalid PAN
+B4,PAN_Of,E Tricks Enterprises Pvt. Ltd.,,83,Invalid PAN
+B5,PAN_Of,Ecospace Infotech Pvt. Ltd.,,83,Invalid PAN
+B6,PAN_Of,Everblink Agency Pvt. Ltd.,,83,Invalid PAN
+B7,PAN_Of,Fortunate Infradevelopers Pvt. Ltd.,,83,Invalid PAN
+B8,PAN_Of,Goldensight Commodtrade Pvt. Ltd.,,83,Invalid PAN
+B9,PAN_Of,Goodpoint Commodeal Pvt. Ltd.,,83,Invalid PAN
+BALDEVSINH,PAN_Missing,Baldevsinh,Na,5,"Invalid PAN, Missing/Incomplete Name"
+BBB12345E,PAN_Of,Pravin,Yamini,75,"Invalid PAN, Missing/Incomplete Name"
+BBB1234F,PAN_Of,Vipul Amratlal Doshi,Na,40,Invalid PAN
+BBB1234X,PAN_Of,Toor Finance Company Ltd.,,52,Invalid PAN
+BBB1234Y,PAN_Of,Goodpoint Commodeal Pvt. Ltd.,Noticee 31,22,Invalid PAN
+BBB98765Y,PAN_Of,Pravin Kumar Agarwal,Ridhi Sidhi Advisory Pvt. Ltd.,44,Invalid PAN
+BBBBC2345X,PAN_Of,Nisha Sharma,,51,
+BBUPK5756R,PAN_Of,Ankit Khandelwal,Na,2,
+BFUPK6760D,PAN_Of,Anshu Kataruka,,1,
+BMKPB4897F,PAN_Of,Ashokkumar Aashish Bohra,Na,2,
+BSFPM3219K,PAN_Of,Aamir Memon,Na,3,
+C1234E,PAN_Of,Roy,Na,5,"Invalid PAN, Missing/Incomplete Name"
+CCC1234W,PAN_Of,Stellar Capital Services Ltd.,,52,Invalid PAN
+CCC22222F,PAN_Of,Neptune,Neptune,75,"Invalid PAN, Missing/Incomplete Name"
+CCC24681Z,PAN_Of,Gopal Bansal,Toor Finance Noticee 3,44,Invalid PAN
+CDSLEMAILDATED18022019,PAN_Of,S Jaiswala,Missing,78,Invalid PAN
+CDSLEMAILDATED22012019,PAN_Of,Satish Kumar,Missing,78,Invalid PAN
+D1234E,PAN_Of,Maheshwari,Na,5,"Invalid PAN, Missing/Incomplete Name"
+DACEEXIM,PAN_Of,Not Specified,Pvt Ltd.,10,Invalid PAN
+DDD1234V,PAN_Of,Premlal Roy,,52,Invalid PAN
+DDD19191I,PAN_Of,Deveshwar,Deveshwar Realty 19,75,"Invalid PAN, Missing/Incomplete Name"
+DDD34567A,PAN_Of,Noticee,Na,44,"Invalid PAN, Missing/Incomplete Name"
+DEVESHWARREALTY,PAN_Of,Deveshwar Realty Private Ltd.,Na,6,Invalid PAN
+DHANSAKTI,PAN_Of,Vivek Gupta,Dhanshakti 9,9,Invalid PAN
+DHIRGA,PAN_Of,Vivek Gupta,Dhirga 7,7,Invalid PAN
+DHIRGAMARKETING,PAN_Of,Not Specified,Pvt Ltd.,10,Invalid PAN
+DIN05305054,Common Directors,Vivek Gupta,Veerit Builders 10,0,Invalid PAN
+DIN06379237,Common Directors,Somyabansal,Veerit Builders 10,0,"Invalid PAN, Missing/Incomplete Name"
+E1234F,PAN_Of,Premlal,Na,5,"Invalid PAN, Missing/Incomplete Name"
+ECOSPACEINFOTECH,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+EEE1234U,PAN_Of,Aries Commercials,,52,Invalid PAN
+EEE20202M,PAN_Of,Mandhawa,Empty,75,"Invalid PAN, Missing/Incomplete Name"
+EEE45678B,PAN_Of,Premlal Roy,Deveshwar Reality,44,Invalid PAN
+EFGHI4567Z,PAN_Of,Sanjeev Kumar Arya,,47,
+EFGHI5678Z,PAN_Of,Doe Jane,,6,
+EMRALDCOMMERCIAL,PAN_Of,Emerald Commercial Ltd.,Na,6,Invalid PAN
+ETRICKS,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+EXCELLENTFINANCIAL,PAN_Of,Excellent Financial Advisory Private Ltd.,Na,6,Invalid PAN
+FFF1234T,PAN_Of,Mkr Trading Pvt Ltd.,,52,Invalid PAN
+FFF21212E,PAN_Of,Excellent Financial,Empty,75,Invalid PAN
+FLATNOC283,S/F,Pocketii Saabi Mining Dda Janta Flats,Jasola Delhi South Delhi Dl Private Ltd. 110025 In,0,Invalid PAN
+FORTUNATE1234Z,PAN_Of,Purushotam Agrawal,Fortunate Infa,71,Invalid PAN
+FORTUNATEINFRADEVELOPERS,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+GGG1234S,PAN_Of,Shri Ram Traders,,52,Invalid PAN
+GGG25252S,PAN_Of,Saraswati,Empty,75,"Invalid PAN, Missing/Incomplete Name"
+GGG98765H,PAN_Of,Gopal Bansal Huf Noticee,Na,44,Invalid PAN
+GGHH1111K,PAN_Of,Vivek Gupta,,52,Invalid PAN
+GOLDENSIGHTCOMOTRADE,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+GOODPOINTCOMMODEAL,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+GOPALBANSAL,(HUF),Panof,Gopal Bansal Huf,0,"Invalid PAN, Missing/Incomplete Name"
+GOPALBANSALA,PAN_Of,Gopal Bansal,,18,Invalid PAN
+GOPALBANSALHUF,PAN_Of,Gopal Bansal,Empty,79,Invalid PAN
+HEADFIRSTVINIMAY,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+HETABSKANGAD,(HUF),Panof,Hetab S Kangad Huf,0,"Invalid PAN, Missing/Incomplete Name"
+HHH1234R,PAN_Of,Vindyavasini Agency Pvt Ltd.,,52,Invalid PAN
+HHH24681I,PAN_Of,Stellar Capital Noticee,Na,44,Invalid PAN
+HHH26262M,PAN_Of,Samrat Trading,Empty,75,Invalid PAN
+HNO312,S/F,Asaf Ali Private Ltd. Road,New Delhi-110002 New Delhi Central Saloni Delhi Dl 110002 In,0,Invalid PAN
+HRA1234Z,PAN_Of,Hans Raj Agarwal,Na,7,Invalid PAN
+HUF12345,PAN_Of,Harvinder Singh Huf,,30,Invalid PAN
+IEJKLMN1234O,PAN_Of,Brajendra Kumar,Na,86,Invalid PAN
+III12123V,PAN_Of,Vindyavasini Agency,Empty,75,Invalid PAN
+III1234Q,PAN_Of,Moonlight Udyog,,52,Invalid PAN
+IJKLM6789G,PAN_Of,Toor Finance Company Ltd.,,50,
+IMAGINELOGISTICS,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+INDIAFINSECLTD,PAN_Of,India Finsec Ltd.,Na,6,Invalid PAN
+JAMUNARAMASUBRAMANIAM,PAN_Of,Jamuna Ramasubramaniam,Na,6,Invalid PAN
+JITENDRA,PAN_Of,Jitendra Jain,Jitenndra Private Ltd.,77,Invalid PAN
+JJJ66666K,PAN_Of,Kuber Dealcom,Empty,75,Invalid PAN
+JKLMN8901O,PAN_Of,Sushil Kumar Sharma,,47,
+JOGINDERPALGUPTA,Common_Director_Of,Shri Entities At,94,95,Invalid PAN
+JPGUPTA27YAHOOCOM,Email_Of,Na,94,0,"Invalid PAN, Missing/Incomplete Name"
+KAUSHIKRAJNIKANTMEHTA,PAN_Missing,Kaushik Rajnikant Mehta,Na,4,Invalid PAN
+KOTAKINDIAPRIVATEBANK,Receiver_Of,Ncr Buildtech Of Account No. Of Bij Buildcon India Private Ltd. And Account No. Of Rsm Bij Buildcon Softech Solutions Private Ltd.,Na,100,Invalid PAN
+KRUSHANA1234X,PAN_Of,Krushana Infrastructure Property Pvt Ltd,Krushana Infrastructure Property Pvt Ltd,23,Invalid PAN
+KRUSHANAINFRAPROPERTY,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+LINKUPVINTRADE,PAN_Of,Ritvika,Private Ltd.,10,"Invalid PAN, Missing/Incomplete Name"
+MAHESHWARI1DEF456H,PAN_Of,Maheshwari Financial Services Private Ltd.,,50,Invalid PAN
+MANAGEMENT,PAN_Of,Not Specified,Pvt Ltd.,10,Invalid PAN
+MKRTRADINGPRIVATE,PAN_Of,Mkr Trading Private Ltd.,Na,6,Invalid PAN
+MOONLIGHTUDYOG,PAN_Of,Moonlight Udyog,Na,6,Invalid PAN
+NA,PAN_Of,Linkup Vintrade Pvt. Ltd.,Na,19,Invalid PAN
+NEPTUNEFINANCIAL,PAN_Of,Neptune Financial Advisory Private Ltd.,Na,6,Invalid PAN
+NIRMALABAICHANDRAPRAKASH,PAN_Of,Nirmalabai Chandraprakash Laddha,Na,6,Invalid PAN
+NITYANANDTHAKUR,PAN_Of,Nityanand Thakur,Komal Enterprises,77,Invalid PAN
+OABCE1234Y,PAN_Of,Surbhi,Na,66,Missing/Incomplete Name
+OMKARADEALER,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+ORDERINTHEMATTEROFYAMINIINVESTMENTCOMPANYLIMITED,Relation,Name,Organisation,0,"Invalid PAN, Missing/Incomplete Name"
+OVERALLLOGISTICS,PAN_Of,Not Specified,Pvt Ltd.,10,Invalid PAN
+PAASHISHBOHRAASHOKSNEHABOHRA,PAN_Of,Ashish Bohra Ashok Sneha Bohra,Nan,32,Invalid PAN
+PAASHOKKUMAR,PAN_Of,Ashok Kumar,Nan,32,Invalid PAN
+PABCDE1234F,PAN_Of,Noticee Ecospace Infotech Pvt. Ltd.,,20,Invalid PAN
+PAN,Relation,Name,Organisation,0,"Invalid PAN, Missing/Incomplete Name"
+PANOF,Name,Organisation,Pagenumber,0,"Invalid PAN, Missing/Incomplete Name"
+PBBCD4567X,PAN_Of,Madhur,Na,66,Missing/Incomplete Name
+PGUPTA27YAHOOCOM,Email_Of,Anupam Entites,Na,0,Invalid PAN
+PKASHOKKUMARHUF,PAN_Of,Ashok Kumar Huf,Nan,32,Invalid PAN
+PLEASENOTETHATPANNUMBERSAREMISSINGSINCETHEYWERENOTMENTIONEDINTHEPROVIDEDTEXTALSO,I've included the names with spaces (e.g.,Kaushik Rajnikant Mehta Instead Of Kaushikrajnikantmehta. If You Need A Different Format Or Further Assistance,Please Let Me Know,0,Invalid PAN
+PREMLAL789O,PAN_Of,Premlal Roy,,50,Invalid PAN
+PREMLALROY,Not Available,Premlal Roy,Not Provided,77,Invalid PAN
+PSHUBHRAKHANDELWAL,PAN_Of,Shubhra Khadelwal,Nan,32,Invalid PAN
+PVIMALABOHRA,PAN_Of,Vimala Bohra,Nan,32,Invalid PAN
+RAJPUTANA1234X,PAN_Of,Rajputana Digital Media Pvt Ltd,Rajputana Digital Media Pvt. Ltd,23,Invalid PAN
+RAJPUTANADIGITALMEDIA,PAN_Of,Not Specified,Pvt Ltd.,10,Invalid PAN
+RAM9OPQ123RS,PAN_Of,Shri Ram Traders,,50,Invalid PAN
+RANADEALTRADE,PAN_Of,Rana Pratap Singh,Pratap Singh Private Ltd.,77,Invalid PAN
+RICHICONSULTANTS,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+SAMRAT,Not Available,Samrat,Not Provided,77,"Invalid PAN, Missing/Incomplete Name"
+SAVITA,Common_Director_AT,Entites At,90,0,Invalid PAN
+SHRIRAMTRADERS,PAN_Of,Shri Ram Traders,Na,6,Invalid PAN
+SINGHRANAPRATAP151,PAN_Of,Jhilmil Jain,Not Provided,77,Invalid PAN
+SONAL,PAN_Of,Sonal Jain,Not Provided,77,Invalid PAN
+SUBHLABHINVESTMENT,PAN_Of,Not Mentioned,Empty,79,Invalid PAN
+SURAKSHIT1234X,PAN_Of,Surendra Sharma,Surakshit Mercantile Pvt Ltd,71,Invalid PAN
+TARUN,Common_Director_OF,Entertainment Private Ltd.,Na,0,Invalid PAN
+TOORFINANCE,PAN_Of,Toor Finance Company Ltd.,Na,6,Invalid PAN
+VANDNAA1234X,PAN_Of,Vandana Agarwal,,39,Invalid PAN
+VEENIT012345L,PAN_Of,Veenit Builders Pvt Ltd,Na,21,Invalid PAN
+VEENITBUILDERS,PAN_Of,Not Specified,Private Ltd.,10,Invalid PAN
+VEEPRAREALESTATE,PAN_Of,Not Specified,,10,Invalid PAN
+VIGHNAHARTA1234Y,PAN_Of,Kuber Sharma,Vighnaharta Infa,71,Invalid PAN
+VIGHNAHARTAINFRA,PAN_Of,Not Specified,Developers Pvt Ltd,0,Invalid PAN
+VIGHR01234F,PAN_Of,Vighnaharta Infradevelopers Pvt Ltd,Na,21,Invalid PAN
+VINDYAVASINI,Not Available,Vindyavasini,Shri Ram Traders,77,"Invalid PAN, Missing/Incomplete Name"
+VIVEKJAIN,PAN_Of,Vivek Jain,Not Provided,77,Invalid PAN
+XXXYYZZ1234A,PAN_Of,Ash Balkisanji Laddha,Ash Balkisanji No. Of Huf,5,Invalid PAN
+XXXYYZZ1234B,PAN_Of,Aries Commercials,Aries Commercials,5,Invalid PAN
+XXXYYZZ1234K,PAN_Of,Mkr Trading Pvt Ltd,Mkr Trading Pvt Ltd,5,Invalid PAN
+XXXYYZZ9876L,PAN_Of,Vindyavasini Agency Pvt Ltd,Vindyavasini Agency Pvt Ltd,5,Invalid PAN
+XXXYZZZ1234A,PAN_Of,Surendra Sharma,,23,Invalid PAN
+XYZABC1234S,PAN_Of,Ram Yadav,Na,87,Invalid PAN
+YICLE1234G,PAN_Of,Yamini Investment Company Limited,Na,40,
+ZW1234T5Y,PAN_Of,Yogesha Chand,Trucklink Vinimay 74,83,Invalid PAN
+ZW1234T5Z,PAN_Of,Parasaram,Na,83,"Invalid PAN, Missing/Incomplete Name"
+ZW1234T6X,PAN_Of,Bablu,Trucklink Vinimay 74,83,"Invalid PAN, Missing/Incomplete Name"
+ZW9876E5Q,PAN_Of,Jatalia,Na,83,"Invalid PAN, Missing/Incomplete Name"
+ZW9876E5R,PAN_Of,Anil Tayalagri,Na,83,Invalid PAN
+ZX7890R1S,PAN_Of,Divine Waters,Divine Waters 72,82,Invalid PAN
+ZZ9876U9I,PAN_Of,Golekh Kumar Mallick,Na,83,Invalid PAN
